@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Me chamo Nicole Muchon, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC CAMPINAS. Sou apaixonada por tecnologia e estou sempre buscando aprender algo novo, evoluir minhas habilidades e transformar ideias em projetos reais. Conecte-se comigo no LinkedIn "[Nicole Muchon](https://www.linkedin.com/in/nicolemuchon/)".
+Conecte-se comigo no LinkedIn "[Nicole Muchon](https://www.linkedin.com/in/nicolemuchon/)".
 
 
 <p align="left">
